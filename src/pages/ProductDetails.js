@@ -122,10 +122,9 @@ const ProductDetails = () => {
                             <div className="separator"></div>
 
                             <div className="prod_details_offers">
-                                <h4>Offers and Discounts</h4>
+                                <h4>Penawaran dan Diskon</h4>
                                 <ul>
-                                    <li>No Cost EMI on Credit Card</li>
-                                    <li>Pay Later & Avail Cashback</li>
+                                    <li>Belum tersedia</li>
                                 </ul>
                             </div>
 

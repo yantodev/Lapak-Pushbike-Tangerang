@@ -1,8 +1,7 @@
-## X-Beat | React eCommerce Web App
+# Lapak Pushbike Tangerang
 
-### [Demo Link](https://x-beat.netlify.app/) 🔗
 
-Audio Store eCommerce Website, built with **React JS**. <br/>
+**Lapak Pushbike Tangerang**, built with **React JS**. <br/>
 State management using Context API.
 <br/>
 
@@ -16,7 +15,6 @@ State management using Context API.
 - #### Custom Hooks
 - #### Local Storage
 - #### Fully Responsive
-- #### Dark Theme
 - #### Multi Pages
 - #### ...and much more
 
@@ -46,3 +44,7 @@ State management using Context API.
 ## License:
 
 This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICENSE.md) file for details.
+
+## Reference from
+- https://gulshansongara.netlify.app/
+- https://x-beat.netlify.app/

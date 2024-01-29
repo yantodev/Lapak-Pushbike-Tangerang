@@ -39,7 +39,7 @@ export const brandsMenu = [
     },
     {
         id: 5,
-        label: "Other",
+        label: "Lainnya",
         checked: false,
     },
 ];
@@ -67,7 +67,7 @@ export const categoryMenu = [
     },
     {
         id: 5,
-        label: "Other",
+        label: "Lainnya",
         checked: false,
     },
 ];
